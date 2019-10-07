@@ -8,3 +8,7 @@ Please take a look at the [CONTRIBUTING.md](https://github.com/MontgomeryCollege
 Name: Max
 
 About: Major in Computer Science. 
+
+Name: Philippe-Andre
+
+About: Double major in Business/Information Systems.
