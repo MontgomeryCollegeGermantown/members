@@ -11,9 +11,6 @@ Name: Max
 
 About: Major in Computer Science. 
 
-Name: Philippe-Andre
-
-About: Double major in Business/Information Systems.
 ==
 
 Name: Abhi Nishida
